@@ -33,6 +33,8 @@ public static int Divide(int a,int b)
 		System.out.println("Enter your choice: \n1.Add\n2.Subtract\n3.Multiply\n4.Divide");
 		val = scan.nextInt();
 		int a,b;
+		System.out.println("Enter 2 numbers\n");
+
 		a = scan.nextInt();
 		b = scan.nextInt();
 		
